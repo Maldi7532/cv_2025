@@ -81,3 +81,8 @@ body{
     text-transform: capitalize;
     text-shadow: 0 0 20px red, 0 0px 20px blue, 0 12px 25px black;
 }
+@media(max-width:720px){
+     .sous-profil img{
+         width: 80%;
+     }
+}
