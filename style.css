@@ -85,4 +85,11 @@ body{
      .sous-profil img{
          width: 80%;
      }
+     .sous-profil h2{
+         font-size: 1.4rem;
+     }
+     . sous-profil ul{
+         font-size: 1.1rem;
+     }
+
 }
